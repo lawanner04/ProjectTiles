@@ -1,0 +1,3 @@
+/Users/lukewanner/Desktop/LukeGames/projectTiles/build/CMakeFiles/main.dir
+/Users/lukewanner/Desktop/LukeGames/projectTiles/build/CMakeFiles/edit_cache.dir
+/Users/lukewanner/Desktop/LukeGames/projectTiles/build/CMakeFiles/rebuild_cache.dir
